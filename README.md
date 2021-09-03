@@ -1,1 +1,1 @@
-# RabbitMQ---Distributed-Programming
+# RabbitMQ-Distributed-Programming
